@@ -7,3 +7,5 @@
 	- [Tuples & Tuple Methods](https://github.com/zynp-a/Python-Notes/blob/main/Tuples.py) -> Tuples are ordered, unchangeable and allows duplicate members.
 	- [Sets & Set Methods](https://github.com/zynp-a/Python-Notes/blob/main/Sets.py) -> Sets are unordered, unchangeable, unindexed and DO NOT allow duplicate members. You can remove or add items.
 	- [Dictionaries & Dictionary Methods](https://github.com/zynp-a/Python-Notes/blob/main/Dictionaries.py) -> Dictionaries are ordered, changeable and DO NOT allow duplicate members.
+
+2. [Functions & Lambda & Recursion](https://github.com/zynp-a/Python-Notes/blob/main/FunctionsLambdaRecursion.py) -> **args (Arbitrary Arguments), **kwargs (Arbitrary Keyword Arguments), Default Parameter Values.
