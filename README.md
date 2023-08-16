@@ -9,3 +9,9 @@
 	- [Dictionaries & Dictionary Methods](https://github.com/zynp-a/Python-Notes/blob/main/Dictionaries.py) -> Dictionaries are ordered, changeable and DO NOT allow duplicate members.
 
 2. [Functions & Lambda & Recursion](https://github.com/zynp-a/Python-Notes/blob/main/FunctionsLambdaRecursion.py) -> **args (Arbitrary Arguments), **kwargs (Arbitrary Keyword Arguments), Default Parameter Values.
+
+3. Conditionals, Iterators, Objects
+	- [Conditionals](https://github.com/zynp-a/Python-Notes/blob/main/Conditionals.py)
+	- [Iterators](https://github.com/zynp-a/Python-Notes/blob/main/Iterators.py) -> \_\_iter\_\_() & \_\_next\_\_()
+	- [Classes & Objects & Inheritance](https://github.com/zynp-a/Python-Notes/blob/main/ClassesObjects.py)
+	- [Scope](https://github.com/zynp-a/Python-Notes/blob/main/Scope.py) -> "global" keyword
